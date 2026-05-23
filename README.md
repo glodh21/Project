@@ -7,3 +7,9 @@ Standard edge detectors (Canny, Phase Congruency) produce edges at multiple scal
 · Risk destroying edge information (making detection easy).
 
 Your solution: Design an edge detector that outputs nested edge maps—edges at coarse scales are guaranteed subsets of finer scales. This is called scale-space consistency
+
+
+Output/edges (edge detected by in built cv2.Canny()
+Output/newedges (edge detected by the code)
+
+USED FOR COMPARISON ONLY
