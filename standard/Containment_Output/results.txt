@@ -1,0 +1,4 @@
+===== STANDARD CANNY BASELINE =====
+
+E3_up -> E2_up Containment: 24.34%
+E2_up -> E1 Containment: 24.53%
