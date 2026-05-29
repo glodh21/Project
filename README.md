@@ -13,3 +13,8 @@ Output/edges (edge detected by in built cv2.Canny()
 Output/newedges (edge detected by the code)
 
 USED FOR COMPARISON ONLY
+
+
+MAY 29 , 2026
+A solution uploaded. use your own code for the comparison of edges subset
+check Sol folder after executing new_Sol.py
